@@ -1,3 +1,3 @@
-# estaca-inova.github.io
+# Cooperatiza
 
 Este github page explica a iniciativa de cooperatização.
