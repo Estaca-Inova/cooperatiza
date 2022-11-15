@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title: Cooperatiza
+description: Site de apresentação do projeto de cooperatização
+links:
+  github: https://github.com/Estaca-Inova
+  atas: https://github.com/Estaca-Inova/atas-de-reuniao
+  conhecimento: https://github.com/Estaca-Inova/base-de-conhecimento
